@@ -1,3 +1,0 @@
-CI integration with Jenkins
-
-The jobs will pull the code from repo to dev  / QA server
